@@ -1,0 +1,7 @@
+C:\Users\v-saxp\source\repos\ConsoleAppDevOpsCICDCheck\ConsoleAppDevOpsCICDCheck\bin\Debug\ConsoleAppDevOpsCICDCheck.exe.config
+C:\Users\v-saxp\source\repos\ConsoleAppDevOpsCICDCheck\ConsoleAppDevOpsCICDCheck\bin\Debug\ConsoleAppDevOpsCICDCheck.exe
+C:\Users\v-saxp\source\repos\ConsoleAppDevOpsCICDCheck\ConsoleAppDevOpsCICDCheck\bin\Debug\ConsoleAppDevOpsCICDCheck.pdb
+C:\Users\v-saxp\source\repos\ConsoleAppDevOpsCICDCheck\ConsoleAppDevOpsCICDCheck\obj\Debug\ConsoleAppDevOpsCICDCheck.csprojAssemblyReference.cache
+C:\Users\v-saxp\source\repos\ConsoleAppDevOpsCICDCheck\ConsoleAppDevOpsCICDCheck\obj\Debug\ConsoleAppDevOpsCICDCheck.csproj.CoreCompileInputs.cache
+C:\Users\v-saxp\source\repos\ConsoleAppDevOpsCICDCheck\ConsoleAppDevOpsCICDCheck\obj\Debug\ConsoleAppDevOpsCICDCheck.exe
+C:\Users\v-saxp\source\repos\ConsoleAppDevOpsCICDCheck\ConsoleAppDevOpsCICDCheck\obj\Debug\ConsoleAppDevOpsCICDCheck.pdb
