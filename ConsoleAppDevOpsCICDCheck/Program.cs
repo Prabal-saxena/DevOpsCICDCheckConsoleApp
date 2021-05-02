@@ -10,7 +10,7 @@ namespace ConsoleAppDevOpsCICDCheck
     {
         static void Main(string[] args)
         {
-            int i = 26;
+            int i = 30;
 
             Console.WriteLine("My Age is " + i + "");
             Console.ReadLine();
